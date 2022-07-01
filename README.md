@@ -1,5 +1,7 @@
 # Building-a-Hack-Computer
-In this project we build a Computer along with an assembler from using nand gates.
+In this project we build a Computer along with an assembler from using nand gates in Basic HDL language.
+
+The entire Computer is built using a Basic Hack Computer language describd in the course Nand2tetris on coursera.
 
 In the project one , basic logic gates are built only by using NAND gates.
 
